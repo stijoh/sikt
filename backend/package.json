@@ -1,5 +1,5 @@
 {
-  "name": "sikt-asheim",
+  "name": "backend",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -27,7 +27,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "8cf1164b-d304-4428-b62c-9fe536c6c86d"
+    "uuid": "d10a2a0b-5c1f-406f-9bc4-fc91cffd517e"
   },
   "engines": {
     "node": ">=10.16.0 <=14.x.x",
